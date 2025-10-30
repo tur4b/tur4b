@@ -1,8 +1,7 @@
 # Hi there, I'm Turab 👋
 
-I'm a **Java Backend Developer** with 2+ years of experience building robust and scalable backend systems.
-
 ### 👨‍💻 About Me
+- **Back End Developer (Java)**
 - 💻 Specializing in Java, Spring Boot
 - 🧠 OOP, Collections, Multithreading & Java 21+ features
 - 🌱 Learning from birth to death — always improving
